@@ -10,4 +10,3 @@ simple visualizations using:
 
 built with python, pandas, matplotlib, and seaborn.
 
-#ilovevisuals
